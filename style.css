@@ -1,10 +1,13 @@
 body{
-    margin: 0px;
+    margin: 5px;
     background-color: rgb(183, 191, 253);
 }
 header{
     margin: 0px;
     padding: 0px;
+}
+div{
+    margin: 5px;
 }
 .title{
     background-image: url(./Assets/img/Title_background.png);
